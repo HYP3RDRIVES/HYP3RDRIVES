@@ -4,7 +4,7 @@
 ##### Website: [https://hypr.ax/](https://hypr.ax)
 
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats --> 
-[![Discord Presence](https://lanyard.cnrad.dev/api/193112730943750144?hideStatus=true)](https://discord.com/users/193112730943750144)
+[![Discord Presence](https://lanyard.cnrad.dev/api/193112730943750144)](https://discord.com/users/193112730943750144)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b561ik20r1uyt7ytvfqiyy0mm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
