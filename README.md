@@ -1,6 +1,6 @@
 #### Hi There, I am currently working on my business ventures!
 ##### If you need to contact me or find more about me you can use the resources linked below.
-##### E-Mail: zain@zaintech.net
+##### E-Mail: [hello@hy.pr](mailto:hello@hy.pr)
 ##### Website: [hy.pr](https://hy.pr)
 
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats --> 
