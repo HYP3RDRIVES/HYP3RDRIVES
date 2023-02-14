@@ -1,4 +1,4 @@
-<img src="test.svg">
+<img src="test.svg"></img>
 ##### E-Mail: [hello@hy.pr](mailto:hello@hy.pr)
 ##### Website: [hy.pr](https://hy.pr)
 
