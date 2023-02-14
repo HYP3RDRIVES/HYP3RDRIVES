@@ -23,10 +23,10 @@
 				
 			</style>
 			<div class="container">
-<h4>Hi There, I am currently working on my business ventures!</h4>
-<h4>If you need to contact me or find more about me you can use the resources linked below.</h4>
-<h4>E-Mail: <a href="mailto:hello@hy.pr">hello@hy.pr</a></h4>
-<h4>Website: <a href="https://hy.pr">hy.pr</a></h4>
+<h4 style="color: #fff !important;">Hi There, I am currently working on my business ventures!</h4>
+<h4 style="color: #fff !important;">If you need to contact me or find more about me you can use the resources linked below.</h4>
+<h4 style="color: #fff !important;">E-Mail: <a href="mailto:hello@hy.pr">hello@hy.pr</a></h4>
+<h4 style="color: #fff !important;">Website: <a href="https://hy.pr">hy.pr</a></h4>
 			</div>
 		</div>
 	</foreignObject>
