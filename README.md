@@ -5,6 +5,6 @@
 ##### Website: [hy.pr](https://hy.pr)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HYP3RDRIVES&count_private=true&show_icons=true&theme=vue-dark&custom_title=HYP3RDRIVES)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HYP3RDRIVES&count_private=true&show_icons=true&theme=vue-dark&custom_title=HYP3RDRIVES)-->
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8GGJO2)
+<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8GGJO2)-->
